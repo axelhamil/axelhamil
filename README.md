@@ -44,16 +44,6 @@ Passionate Fullstack Developer with expertise in building scalable, maintainable
 
 Currently working as a freelance developer on various fullstack projects, leveraging my expertise in Next.js, TypeScript, and Clean Architecture to deliver high-quality, scalable solutions for clients across different industries.
 
-### [Auth Library](https://github.com/axelhamil/auth-lib)
-
-Developing a zero-dependency, framework-agnostic authentication library in TypeScript that fills the gap left by Lucia. This library provides:
-
-- Pure TypeScript implementation with zero external dependencies
-- Framework-agnostic design that works with any frontend or backend
-- Type-safe API with strong typing guarantees
-- Flexible authentication flows with support for various providers
-- Minimal, declarative API inspired by best practices from existing solutions
-
 ## 📈 GitHub Stats
 
 <div align="center">

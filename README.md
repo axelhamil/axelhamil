@@ -47,9 +47,21 @@ Currently working as a freelance developer on various fullstack projects, levera
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axelhamil&theme=tokyonight" alt="GitHub Streak" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=axelhamil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
+
 
 ## 🌱 Current Focus
 

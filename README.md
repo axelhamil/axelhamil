@@ -51,17 +51,25 @@ Currently working as a freelance developer on various fullstack projects, levera
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=axelhamil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=axelhamil&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=axelhamil&bg_color=24273a&color=cad3f5&line=cba6f7&point=8bd5ca&area=true&hide_border=true" alt="Contribution Graph" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=axelhamil&theme=catppuccin_mocha&no-frame=true&rank=SECRET,SS,S,AAA,AA,A,B,C" alt="Trophies" />
     </td>
   </tr>
 </table>
 
 </div>
-
-
 
 ## 🌱 Current Focus
 

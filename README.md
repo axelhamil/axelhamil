@@ -75,7 +75,6 @@ Currently working as a freelance developer on various fullstack projects, levera
 
 I'm currently exploring:
 
-- Creating a zero-dependency authentication library in TypeScript that addresses limitations in existing solutions
 - Advanced patterns with React Server Components
 - Optimizing Web Vitals in Next.js applications
 - Event-driven architecture in distributed systems

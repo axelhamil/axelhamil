@@ -1,4 +1,5 @@
 # Axel Hamil | Fullstack Engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhamilcaro) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
+
 > Building modern web applications with Next.js, React & TypeScript
 
 Fullstack developer specializing in scalable web applications. I work with modern JavaScript/TypeScript stack and focus on clean, maintainable code using architectural patterns like DDD and Clean Architecture.
@@ -19,3 +20,5 @@ Fullstack developer specializing in scalable web applications. I work with moder
 </tr>
 </table>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=axelhamil&style=flat-square&color=f7f3e9&label=" width="1" height="1" />

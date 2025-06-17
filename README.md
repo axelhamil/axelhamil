@@ -1,16 +1,16 @@
-# Axel Hamil | Fullstack Engineer [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhamilcaro) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
+# Axel Hamil | Web Dev Fullstack [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhamilcaro) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
 
-> Building modern web applications with Next.js, React & TypeScript
+> Fast, maintainable web apps. Next.js, React, TypeScript.
 
-Fullstack developer specializing in scalable web applications. I work with modern JavaScript/TypeScript stack and focus on clean, maintainable code using architectural patterns like DDD and Clean Architecture.
+I write clean code. I use proven architecture. I ship.
 
-**Currently working on:**
-- 🚀 Freelance projects with Next.js & TypeScript
-- 📚 SCORM-compliant e-learning platform development
-- 🛠️ Building dev tools & CLI for database management optimization
-- 🏗️ Building apps with Clean Architecture principles
-- 🎨 UI development with Shadcn UI & Tailwind CSS
-- 🔍 Exploring React Server Components & performance optimization
+**Now working on:**
+- 🚀 Freelance apps & tools
+- 📚 SCORM e-learning platform
+- 🛠️ CLI & DB tooling
+- 🏗️ Backend with Clean Archi & DDD
+- 🎨 UI with Shadcn/UI & Tailwind
+- 🔍 RSC, DX & perf tweaks
 
 <div align="center">
 <table>

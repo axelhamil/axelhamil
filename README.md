@@ -16,7 +16,8 @@ I write clean code. I use proven architecture. I ship.
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f7f3e9&title_color=8b4513&text_color=5d4e37&icon_color=cd853f" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com?user=axelhamil&theme=gruvbox&hide_border=true&background=f7f3e9&stroke=8b4513&ring=cd853f&fire=d2691e&currStreakLabel=5d4e37&sideLabels=5d4e37&currStreakNum=8b4513&sideNums=8b4513" /></td>
+<td><img src="https://streak-stats.demolab.com?user=axelhamil&theme=gruvbox&hide_border=true&background=f7f3e9&stroke=8b4513&ring=cd853f&fire=d2691e&currStreakLabel=5d4e37&sideLabels=5d4e37&currStreakNum=8b4513&sideNums=8b4513" />
+</td>
 </tr>
 </table>
 </div>

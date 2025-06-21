@@ -11,7 +11,7 @@
 - 🛠️ CLI & DB tooling  
 - 🏗️ Backend with Clean Archi & DDD  
 - 🎨 UI with Shadcn/UI & Tailwind  
-- 🔍 RSC, DX & perf tweaks  
+- �� RSC, DX & perf tweaks  
 
 <div align="center">
   <table>
@@ -20,7 +20,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f7f3e9&title_color=8b4513&text_color=5d4e37&icon_color=cd853f" />
       </td>
       <td>
-        <img src="https://streak-stats.github-readme-streak-stats.app/api?user=axelhamil&theme=gruvbox&hide_border=true&background=f7f3e9&stroke=8b4513&ring=cd853f&fire=d2691e&currStreakLabel=5d4e37&sideLabels=5d4e37&currStreakNum=8b4513&sideNums=8b4513" />
+        <img src="https://streak-stats.demolab.com/?user=axelhamil&theme=gruvbox&hide_border=true&background=f7f3e9&stroke=8b4513&ring=cd853f&fire=cd853f&currStreakNum=5d4e37&sideNums=5d4e37&currStreakLabel=5d4e37&sideLabels=5d4e37&dates=5d4e37" />
       </td>
     </tr>
   </table>

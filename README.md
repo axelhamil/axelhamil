@@ -17,10 +17,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=gruvbox&hide_border=true&bg_color=f7f3e9&title_color=8b4513&text_color=5d4e37&icon_color=cd853f" />
+        <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&theme=calm&show_icons=true&hide_border=true&count_private=true" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=axelhamil&theme=gruvbox&hide_border=true&background=f7f3e9&stroke=8b4513&ring=cd853f&fire=cd853f&currStreakNum=5d4e37&sideNums=5d4e37&currStreakLabel=5d4e37&sideLabels=5d4e37&dates=5d4e37" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=calm&hide_border=true" />
       </td>
     </tr>
   </table>

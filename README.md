@@ -52,5 +52,3 @@
     </picture>
   </a>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=axelhamil&style=flat-square&color=f7f3e9&label=" width="1" height="1" />

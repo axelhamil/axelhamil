@@ -19,11 +19,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Voir plus de stats" style="display:inline-block;">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=ffb86c&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&card_width=340"
+        srcset="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=ffb86c&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&card_width=340"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=2f80ed&icon_color=4c71f2&text_color=434d58&bg_color=fffefe&card_width=340"
+        srcset="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=2f80ed&icon_color=4c71f2&text_color=434d58&bg_color=fffefe&card_width=340"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&card_width=340"
@@ -37,11 +37,11 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Voir ta streak" style="display:inline-block;">
     <picture>
       <source
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
+        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=calm&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
+        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"

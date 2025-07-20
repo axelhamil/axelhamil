@@ -3,17 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhamilcaro)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
 
-> 🚀 Fast, maintainable web apps.  
-> Clean code. Proven architectures. Relentless shipping.
-
-**Currently building:**
-- 🚀 Custom freelance apps & dev tools  
-- 📚 SCORM e-learning platforms  
-- 🛠️ CLI & database tooling  
-- 🏗️ Backends with Clean Architecture & DDD  
-- 🎨 UIs with Shadcn/UI & Tailwind CSS  
-- ⚡️ RSC, DX & performance optimizations
-
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Voir plus de stats" style="display:inline-block;">

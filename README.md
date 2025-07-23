@@ -26,14 +26,14 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Voir ta streak" style="display:inline-block;">
     <picture>
       <source
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
+        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340&t=2425325"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
+        srcset="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340&t=2425325"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340"
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=340&t=2425325"
         alt="GitHub Streak"
         height="170"
         style="max-width: 100%; vertical-align: middle;"

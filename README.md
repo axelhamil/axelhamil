@@ -4,7 +4,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
 
 <div align="center">
-
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Voir plus de stats" style="display:inline-block;">
     <picture>
       <source

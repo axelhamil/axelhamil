@@ -21,7 +21,6 @@
       />
     </picture>
   </a>
-
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Voir ta streak" style="display:inline-block;">
     <picture>
       <source

@@ -3,11 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhamilcaro)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/axel_hamil)
 
-### 👋 About Me  
-I’m **Axel Hamilcaro**, a **TypeScript fullstack developer** passionate about **craftsmanship**, **Domain-Driven Design**, and **Clean Architecture**.  
-This repo is my **personal GitHub space** where I experiment, test ideas, and explore projects.  
+### 👋 About Me
+I’m a **TypeScript fullstack developer** passionate about **craftsmanship**, **Domain-Driven Design**, and **Clean Architecture**.
+This repo is my **personal GitHub space** where I experiment, test ideas, and explore projects.
 
-💼 Professionally, I work within my organization [**EIAxelHamilcaro**](https://github.com/EIAxelHamilcaro), building and structuring **custom SaaS solutions** with a **product-focused, fast market-validation approach**.  
+💼 Professionally, I work within my organization [**EIAxelHamilcaro**](https://github.com/EIAxelHamilcaro), building and structuring **custom SaaS solutions** with a **product-focused, fast market-validation approach**.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="See more stats" style="display:inline-block;">

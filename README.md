@@ -7,7 +7,7 @@
 I’m a **TypeScript fullstack developer** passionate about **craftsmanship**, **Domain-Driven Design**, and **Clean Architecture**.
 This repo is my **personal GitHub space** where I experiment, test ideas, and explore projects.
 
- Professionally, I work within my organization [**EIAxelHamilcaro**](https://github.com/EIAxelHamilcaro), building and structuring **custom SaaS solutions** with a **product-focused, fast market-validation approach**.
+💼 Professionally, I work within my organization [**EIAxelHamilcaro**](https://github.com/EIAxelHamilcaro), building and structuring **custom SaaS solutions** with a **product-focused, fast market-validation approach**.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="See more stats" style="display:inline-block;">

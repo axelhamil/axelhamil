@@ -59,46 +59,34 @@ const axel = {
 
 ## Featured projects
 
-<div align="center">
-
-<a href="https://github.com/axelhamil/clean-stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=clean-stack&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="clean-stack" />
-</a>
-<a href="https://github.com/axelhamil/inwire">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=inwire&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="inwire" />
-</a>
-
-<a href="https://github.com/axelhamil/galvorn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=galvorn&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="galvorn" />
-</a>
-<a href="https://github.com/axelhamil/murmur">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=murmur&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="murmur" />
-</a>
-
-<a href="https://github.com/axelhamil/axelhamilcaro.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=axelhamilcaro.com&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="axelhamilcaro.com" />
-</a>
-<a href="https://github.com/axelhamil/dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=dotfiles&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="dotfiles" />
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/axelhamil/clean-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=clean-stack&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="clean-stack" /></a></td>
+    <td><a href="https://github.com/axelhamil/inwire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=inwire&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="inwire" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/axelhamil/galvorn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=galvorn&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="galvorn" /></a></td>
+    <td><a href="https://github.com/axelhamil/murmur"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=murmur&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="murmur" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/axelhamil/axelhamilcaro.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=axelhamilcaro.com&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="axelhamilcaro.com" /></a></td>
+    <td><a href="https://github.com/axelhamil/dotfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=axelhamil&repo=dotfiles&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&border_radius=10" alt="dotfiles" /></a></td>
+  </tr>
+</table>
 
 <br />
 
 ## Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&bg_color=1a1b27&card_width=420" alt="stats" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=420&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00&background=1a1b27" alt="streak" height="170" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axelhamil&theme=react-dark&hide_border=true&bg_color=1a1b27&color=ff4d00&line=ff4d00&point=ffffff&area=true&area_color=ff4d00&radius=10" alt="activity" width="92%" />
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=axelhamil&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&border_radius=10&title_color=ff4d00&icon_color=ff4d00&text_color=ffffff&bg_color=1a1b27&card_width=420" alt="stats" height="195" /></td>
+    <td><img src="https://github-readme-streak-stats-eight.vercel.app?user=axelhamil&theme=dracula&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=420&ring=ff4d00&fire=ff4d00&currStreakLabel=ff4d00&background=1a1b27" alt="streak" height="195" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=axelhamil&theme=react-dark&hide_border=true&bg_color=1a1b27&color=ff4d00&line=ff4d00&point=ffffff&area=true&area_color=ff4d00&radius=10" alt="activity" width="100%" /></td>
+  </tr>
+</table>
 
 <br />
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff4d00&height=200&section=header&text=Axel%20Hamilcaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20fullstack%20%E2%80%94%20Clean%20Architecture%20%E2%80%A2%20DDD%20%E2%80%A2%20Craftsmanship&descAlignY=58&descSize=14" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff4d00&height=200&section=header&text=Axel%20Hamilcaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20fullstack%20%7C%20Clean%20Architecture%20%2F%20DDD%20%2F%20Craftsmanship&descAlignY=58&descSize=14" alt="header" />
 
 <br />
 
@@ -17,28 +17,28 @@
 <br /><br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF4D00&center=true&vCenter=true&width=620&lines=Building+SaaS+with+code+I'm+not+ashamed+of.;Strong+opinions+on+layered+architecture.;Type+safety+%E2%9D%A4%EF%B8%8F+Domain-Driven+Design.;Open-source+experiments+%26+TypeScript+libraries." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF4D00&center=true&vCenter=true&width=620&lines=Building+SaaS+with+code+I'm+not+ashamed+of.;Strong+opinions+on+layered+architecture.;Type+safety+%2B+Domain-Driven+Design.;Open-source+experiments+%26+TypeScript+libraries." alt="typing" />
 </a>
 
 </div>
 
 <br />
 
-## ◇ &nbsp; About
+## About
 
-I build **product-focused SaaS** with a fast market-validation mindset, and care a lot about how the code is structured underneath. Strong opinions on **layered architecture**, **type safety**, and shipping things that don't rot six months later.
+I build product-focused SaaS with a fast market-validation mindset, and care a lot about how the code is structured underneath. Strong opinions on layered architecture, type safety, and shipping things that don't rot six months later.
 
-Professionally I operate through my organization **[EIAxelHamilcaro](https://github.com/EIAxelHamilcaro)**. This profile is my **personal lab** — open-source experiments, libraries, and starters.
+Professionally I operate through my organization [EIAxelHamilcaro](https://github.com/EIAxelHamilcaro). This profile is my personal lab: open-source experiments, libraries, and starters.
 
 <br />
 
-## ◆ &nbsp; Currently
+## Currently
 
 ```ts
 const axel = {
-  shipping: "clean-stack — Next.js starter, Clean Architecture, 90% test coverage",
-  learning: "Rust — through murmur, a Twitch chat SaaS",
-  iterating: "axelhamilcaro.com — portfolio + admin (forms, leads, analytics)",
+  shipping: "clean-stack: Next.js starter, Clean Architecture, 90% test coverage",
+  learning: "Rust, through murmur, a Twitch chat SaaS",
+  iterating: "axelhamilcaro.com: portfolio + admin (forms, leads, analytics)",
   stack: ["TypeScript", "Next.js", "React", "Bun", "Drizzle", "PostgreSQL"],
   os: "Arch Linux + Hyprland",
   editor: "Neovim",
@@ -47,17 +47,17 @@ const axel = {
 
 <br />
 
-## ◇ &nbsp; Toolbelt
+## Toolbelt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,bun,rust,postgres,tailwind,vitest,docker,nvim,linux&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,bun,rust,postgres,tailwind,vitest,docker,neovim,linux&theme=dark" alt="stack" />
 
 </div>
 
 <br />
 
-## ◆ &nbsp; Featured projects
+## Featured projects
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const axel = {
 
 <br />
 
-## ◇ &nbsp; Stats
+## Stats
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const axel = {
 <br />
 
 <div align="center">
-  <sub>Open to discussions on architecture, SaaS, type systems — and Rust on weekends.</sub>
+  <sub>Open to discussions on architecture, SaaS, type systems, and Rust on weekends.</sub>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d00,100:1a1b27&height=80&section=footer" alt="footer" />
 </div>

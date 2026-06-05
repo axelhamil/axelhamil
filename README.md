@@ -61,28 +61,6 @@ const axel = {
 
 <br />
 
-## Featured projects
-
-**[clean-stack](https://github.com/axelhamil/clean-stack)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br />
-SaaS-ready boilerplate. BetterAuth, multi-tenant, Resend + R2 wired. Bun · Hono · React 19 · TanStack · Drizzle/Postgres. Clean Architecture + pragmatic DDD, zero-warning pipeline.
-
-**[inwire](https://github.com/axelhamil/inwire)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp; <a href="https://www.npmjs.com/package/inwire"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a><br />
-Type-safe DI for TypeScript. Zero decorators, zero tokens, full inference. Proxy-based lazy singletons, auto-built dependency graph.
-
-**[galvorn](https://github.com/axelhamil/galvorn)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp; <a href="https://www.npmjs.com/package/ferrum"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a><br />
-Rust's Option and Result for TypeScript. Pattern matching, chainable API, zero dependencies, 100% coverage.
-
-**[murmur](https://github.com/axelhamil/murmur)** &nbsp; <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /><br />
-Zero-config Twitch chat management SaaS. Real-time IRC, bot, OBS overlays. Rust + Nuxt, Clean Architecture. _(WIP)_
-
-**[axelhamilcaro.com](https://github.com/axelhamil/axelhamilcaro.com)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br />
-Personal site with an admin dashboard: visitor analytics, traffic sources, page performance, dynamic lead-capture forms and automated email responses.
-
-**[dotfiles](https://github.com/axelhamil/dotfiles)** &nbsp; <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /><br />
-Personal dotfiles managed with GNU Stow. Arch Linux (Hyprland) on the `arch` branch, macOS on the `macos` branch.
-
-<br />
-
 <div align="center">
   <sub>Open to discussions on architecture, SaaS, type systems, and Rust on weekends.</sub>
   <br />

@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt" />
 </a>
 <a href="https://github.com/axelhamil">
-  <img src="https://img.shields.io/github/followers/axelhamil?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=1a1b27&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br /><br />
@@ -63,44 +63,23 @@ const axel = {
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/clean-stack"><b>clean-stack</b></a><br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/axelhamil/clean-stack?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">SaaS-ready boilerplate. BetterAuth, multi-tenant, Resend + R2 wired. Bun, Hono, React 19, TanStack, Drizzle/Postgres. Clean Architecture + pragmatic DDD, zero-warning pipeline.</td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/inwire"><b>inwire</b></a><br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/axelhamil/inwire?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">Type-safe DI for TypeScript. Zero decorators, zero tokens, full inference. Proxy-based lazy singletons, auto-built dependency graph. <a href="https://www.npmjs.com/package/inwire">npm</a></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/galvorn"><b>galvorn</b></a><br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/axelhamil/galvorn?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">Rust's Option and Result for TypeScript. Pattern matching, chainable API, zero dependencies, 100% coverage. <a href="https://www.npmjs.com/package/ferrum">npm</a></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/murmur"><b>murmur</b></a><br /><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/github/stars/axelhamil/murmur?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">Zero-config Twitch chat management SaaS. Real-time IRC, bot, OBS overlays. Rust + Nuxt, Clean Architecture. <i>(WIP)</i></td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/axelhamilcaro.com"><b>axelhamilcaro.com</b></a><br /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/github/stars/axelhamil/axelhamilcaro.com?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">Personal site with an admin dashboard: visitor analytics, traffic sources, page performance, dynamic lead-capture forms and automated email responses.</td>
-  </tr>
-  <tr>
-    <td width="170" valign="top"><a href="https://github.com/axelhamil/dotfiles"><b>dotfiles</b></a><br /><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /> <img src="https://img.shields.io/github/stars/axelhamil/dotfiles?style=flat-square&color=ff4d00&labelColor=1a1b27&logo=github&logoColor=white" alt="stars" /></td>
-    <td valign="top">Personal dotfiles managed with GNU Stow. Arch Linux (Hyprland) on the <code>arch</code> branch, macOS on the <code>macos</code> branch.</td>
-  </tr>
-</table>
+**[clean-stack](https://github.com/axelhamil/clean-stack)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br />
+SaaS-ready boilerplate. BetterAuth, multi-tenant, Resend + R2 wired. Bun · Hono · React 19 · TanStack · Drizzle/Postgres. Clean Architecture + pragmatic DDD, zero-warning pipeline.
 
-<br />
+**[inwire](https://github.com/axelhamil/inwire)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp; <a href="https://www.npmjs.com/package/inwire"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a><br />
+Type-safe DI for TypeScript. Zero decorators, zero tokens, full inference. Proxy-based lazy singletons, auto-built dependency graph.
 
-## Stats
+**[galvorn](https://github.com/axelhamil/galvorn)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> &nbsp; <a href="https://www.npmjs.com/package/ferrum"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a><br />
+Rust's Option and Result for TypeScript. Pattern matching, chainable API, zero dependencies, 100% coverage.
 
-<div align="center">
+**[murmur](https://github.com/axelhamil/murmur)** &nbsp; <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /><br />
+Zero-config Twitch chat management SaaS. Real-time IRC, bot, OBS overlays. Rust + Nuxt, Clean Architecture. _(WIP)_
 
-<img src="https://img.shields.io/github/followers/axelhamil?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=ff4d00&labelColor=1a1b27" alt="followers" />
-<img src="https://img.shields.io/github/stars/axelhamil/clean-stack?style=for-the-badge&logo=github&logoColor=white&label=clean-stack%20stars&color=ff4d00&labelColor=1a1b27" alt="clean-stack stars" />
-<img src="https://img.shields.io/github/last-commit/axelhamil/clean-stack?style=for-the-badge&logo=git&logoColor=white&label=Last%20ship&color=ff4d00&labelColor=1a1b27" alt="last commit" />
+**[axelhamilcaro.com](https://github.com/axelhamil/axelhamilcaro.com)** &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br />
+Personal site with an admin dashboard: visitor analytics, traffic sources, page performance, dynamic lead-capture forms and automated email responses.
 
-</div>
+**[dotfiles](https://github.com/axelhamil/dotfiles)** &nbsp; <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /><br />
+Personal dotfiles managed with GNU Stow. Arch Linux (Hyprland) on the `arch` branch, macOS on the `macos` branch.
 
 <br />
 

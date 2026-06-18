@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff4d00&height=200&section=header&text=Axel%20Hamilcaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TypeScript%20fullstack%20%7C%20Clean%20Architecture%20%2F%20DDD%20%2F%20Craftsmanship&descAlignY=58&descSize=14" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:ff4d00&height=200&section=header&text=Axel%20Hamilcaro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Fullstack%20%7C%20Next.js%20%7C%20React%20%7C%20Node&descAlignY=58&descSize=16" alt="header" />
 
 <br />
 
@@ -28,6 +28,8 @@
 <br />
 
 ## About
+
+**Développeur Web Fullstack | Next.js | React | Node** — freelance, available for SaaS & web-app builds · [axelhamilcaro.com](https://axelhamilcaro.com)
 
 I build product-focused SaaS with a fast market-validation mindset, and care a lot about how the code is structured underneath. Strong opinions on layered architecture, type safety, and shipping things that don't rot six months later.
 

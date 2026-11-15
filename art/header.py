@@ -1,3 +1,4 @@
+from html import escape
 from datetime import date
 from pathlib import Path
 
@@ -9,7 +10,7 @@ from themes import THEMES
 VERSE = "ONE TYPE TO RULE THEM ALL, ONE BUILD TO SHIP THEM, ONE REPO TO BRING THEM ALL AND IN CLEAN CODE BIND THEM"
 
 NAME = "Axel Hamilcaro"
-STATUS = "OPEN TO FREELANCE · TOURS, FRANCE · REMOTE"
+STATUS = "FULLSTACK & BUILDER · TOURS, FRANCE · REMOTE"
 HEAD_ACCENT = "Fullstack"
 HEAD_REST = " developer"
 LINE = "ship fast, keep it clean, don't let it rot"
@@ -76,7 +77,7 @@ def svg(t, inscription, fonts_dir, day):
 
 <rect x="72" y="62" width="{len(STATUS) * 9.0 + 52:.0f}" height="34" rx="6" fill="none" stroke="{t["border"]}"/>
 <circle class="dot" cx="92" cy="79" r="4.5" fill="{t["ok"]}"/>
-<text class="mono" x="106" y="84" font-size="15" letter-spacing="0" fill="{t["muted"]}">{STATUS}</text>
+<text class="mono" x="106" y="84" font-size="15" letter-spacing="0" fill="{t["muted"]}">{escape(STATUS)}</text>
 <text class="serif" x="72" y="152" font-size="28" font-weight="500" fill="{t["muted"]}">{NAME}</text>
 <text class="serif" x="68" y="232" font-size="70" font-weight="700" letter-spacing="-1.2" fill="{t["ink"]}"><tspan fill="{t["brand"]}">{HEAD_ACCENT}</tspan>{HEAD_REST}</text>
 <text class="mono" x="72" y="290" font-size="20" fill="{t["ink"]}">{LINE}</text>

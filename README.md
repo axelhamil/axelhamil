@@ -42,6 +42,7 @@ By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest 
 - **Tirith**: an editorial engine that never invents a topic. It starts from what really happened, drafts a post, waits for my call, then traces each opportunity back to the post that brought it. In progress.
 - **Deisis**: a NixOS appliance for self-hosted AI agents, where an update can never break the box: system and data roll back together on failure. In progress.
 - **optimize-site-geo**: a Claude Code skill that maintains a site's SEO and GEO on its own, every week: it measures, sorts regressions from opportunities, fixes them in the site's own tone and reports. Private.
+- [classroom-parents](https://github.com/axelhamil/classroom-parents): a French mobile-first PWA for parents. It links their children's Google Classroom accounts read only, lists the upcoming deadlines found in class announcements and sends a push alert before each one. Proof of concept.
 
 <br />
 
@@ -55,18 +56,20 @@ By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest 
 - [galvorn](https://github.com/axelhamil/galvorn): Rust's `Option`, `Result` and exhaustive `match()` for TypeScript. Zero dependencies, 100% coverage.
 - [aggregate-kit](https://github.com/axelhamil/aggregate-kit): the DDD building blocks extracted from clean-stack, published on npm with provenance. A repository scoped to its owner reads a stranger's data as absent, never forbidden, so nothing leaks.
 - [ts-lib-template](https://github.com/axelhamil/ts-lib-template): a library ready to publish on day one, with release PRs, npm trusted publishing and the package shape checked on every build.
+- [lambe](https://github.com/axelhamil/lambe): a Chrome extension that translates web pages and YouTube captions in place, with a local model through Ollama or any OpenAI-compatible server.
 
 <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/titles/palantiri-dark.svg" />
-  <img src="assets/titles/palantiri-light.svg" width="640" alt="Palantíri: Claude Code tooling" />
+  <img src="assets/titles/palantiri-light.svg" width="640" alt="Palantíri: tooling for coding agents" />
 </picture>
 
 - [burnrate](https://github.com/axelhamil/burnrate): tells you whether to push or hold back. It projects where your 5-hour and 7-day quotas will land at reset, gives a daily budget, and says it plainly: ease off, room to spare, or limit hit around 4 pm.
 - [ccwatermelon](https://github.com/axelhamil/ccwatermelon): a 3-line statusline drawn in about 40 ms, that warns you before the quota runs out and counts the tokens left before auto-compaction. Green rind while there's room, red flesh when there isn't.
 - [claude-window](https://github.com/axelhamil/claude-window): pins your 5-hour window to a fixed hour by reading the real reset time from the API, then chains windows all day with 3 or 4 wake-ups and no polling.
 - [cockpit](https://github.com/axelhamil/cockpit): lets a non-developer run a SaaS on Railway by talking to Claude. It installs Metabase, n8n and Uptime Kuma fitted to the app, watches health, errors, costs and backups, logs every change with its undo, and "cancel that" works.
+- [opencode-steps](https://github.com/axelhamil/opencode-steps): deterministic agent workflows for OpenCode. You write the steps as a tree read top to bottom, code decides what runs next, and no model picks the order, so no step gets skipped. Work in progress.
 - [cursor-statusline](https://github.com/axelhamil/cursor-statusline): the same idea for the Cursor Agent CLI, with model, git, context and quota pools.
 
 <br />
@@ -76,7 +79,7 @@ By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest 
   <img src="assets/titles/shire-light.svg" width="640" alt="The Shire: home setup" />
 </picture>
 
-[nixos-starter](https://github.com/axelhamil/nixos-starter): fork it, add one file per machine, and each host gets a build check, a VM boot test in CI and an installer ISO. Encrypted disk, a root wiped at every boot, hourly snapshots, and a PR with fresh inputs every Monday. My [dotfiles](https://github.com/axelhamil/dotfiles) run Arch and Hyprland, with Claude agents tracked right in the terminal tabs and tmux panes.
+[nixos-forge](https://github.com/axelhamil/nixos-forge): not a distro, the forge where you build your own NixOS distro. Fork it, customize everything, and CI tests every machine before it reaches you: build, VM boot, install on a blank disk. Encrypted disk, a root wiped at every boot, hourly snapshots, and a PR with fresh inputs every Monday. Work in progress. My [dotfiles](https://github.com/axelhamil/dotfiles) run Arch and Hyprland, with Claude agents tracked right in the terminal tabs and tmux panes.
 
 <details>
 <summary>Older experiments, archived quests and honest mistakes</summary>

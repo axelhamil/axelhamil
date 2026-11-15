@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Axel Hamilcaro, fullstack developer, open to freelance work." />
+  <img src="assets/header-light.svg" width="100%" alt="Axel Hamilcaro, fullstack developer and builder." />
 </picture>
 <br />
 
-**Axel Hamilcaro, Fullstack Web Developer, Next.js, React, Node.** I build at [Eskimoz](https://www.eskimoz.fr), the AI first Global Search agency, on the platform that tracks how brands show up in search engines and AI answers. Based in Touraine, France, working remote.
+**Axel Hamilcaro, fullstack developer and builder.** I build the APIs and foundation tools other people build their products on, rather than SaaS that consume those APIs. My bet for 2026 and 2027: ship the tool and the data, not the final application. Based in Tours, France, working remote.
 
-I'm still open to freelance work and side projects, mostly multi-tenant B2B SaaS in TypeScript, built on Clean Architecture and DDD. More on [axelhamilcaro.com](https://axelhamilcaro.com).
+By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest of the time I build the tools listed below, open source first. I still take a few freelance projects. More on [axelhamilcaro.com](https://axelhamilcaro.com).
 
 <br />
 
@@ -15,8 +15,8 @@ I'm still open to freelance work and side projects, mostly multi-tenant B2B SaaS
   <img src="assets/titles/quests-light.svg" width="640" alt="Quests: experience" />
 </picture>
 
-- **[Eskimoz](https://www.eskimoz.fr)** <sub>2026, now</sub><br />Search no longer stops at Google: brands now have to show up in ChatGPT, Perplexity and AI Overviews too, and most can't see what those engines say about them. Eskimoz, the AI first Global Search agency (1,000+ clients, 8 offices in 5 countries), answers with the Eskimoz App, its in-house platform. I'm a fullstack developer on it: LLM Ranking, Brand Protector, Crawlr and Monitoring, which track how brands rank in search engines and get cited in AI answers.
-- **[OpenUp](https://openup.to)** <sub>2026, now</sub><br />A founder's SaaS stuck for months, aiming to replace Bitly, Linktree and Beacons in one product. I restarted it from scratch with him and it's now my product too: short links with native deep links, dynamic QR codes for Apple and Google Wallet, WYSIWYG link-in-bio, analytics, custom domains, 4 Stripe plans. Clean Architecture with 9 domain modules, Cloudflare edge under 50ms, iOS, Android and PWA from one codebase.
+- **[Eskimoz](https://www.eskimoz.fr)** <sub>2026, now</sub><br />Eskimoz is a digital acquisition agency, best known for SEO. I'm a fullstack developer there, across the whole chain: interface, API, jobs and the infra that runs them. What I build there belongs to the team, so I say no more here.
+- **[OpenUp](https://openup.to)** <sub>2026, now</sub><br />A founder's SaaS stuck for months, aiming to replace Bitly, Linktree and Beacons in one product. I restarted it from scratch with him and I'm now its technical founder: short links with native deep links, dynamic QR codes for Apple and Google Wallet, WYSIWYG link-in-bio, analytics, custom domains, 4 Stripe plans. Clean Architecture with 9 domain modules, Cloudflare edge under 50ms, iOS, Android and PWA from one codebase.
 - **[Odyssée](https://odyssee-nautique.com)** <sub>2026, freelance</sub><br />Kayak and paddle stations with nobody on site: the whole rental has to work alone, from the booking to the padlock on the dock. You book, you pay, an SMS sends your code, a connected padlock opens. As technical consultant I set the architecture and infra, designed the IoT flow from booking to padlock, hired and onboarded the developer, and planned the migration of live customers from the previous provider. Multi-tenant on Next.js and Payload: each operator gets their own domain, brand, Stripe account and walled-off data.
 - **[HomeCafé](https://homecafe.app)** <sub>2026, freelance, in progress</sub><br />A founder with an idea for mental health professionals and no product yet. The goal: an MVP real enough to convince investors. I coded it from scratch, web and mobile, it helped raise funds, and the build goes on: 70+ business flows so far. Next.js, Expo, Fastify, PostgreSQL.
 - **[L'Instant Tranquille](https://www.instant-tranquille.com)** <sub>2026, freelance</sub><br />A holiday home in Sologne, up against every listing on Airbnb and Booking. The goal: become the place a tourist lands on when they search, or ask an AI, where to stay in Sologne, then send them on to book. SEO and GEO pushed to the max with structured data, hreflang, llms.txt, AI crawlers welcomed, IndexNow on every deploy and local search. The CMS installs as a full PWA: the owner runs the site, emails included, from an icon on her phone, and everything else is automated. Generated animated landscapes so the place feels like itself. Next.js and Payload CMS.
@@ -36,11 +36,12 @@ I'm still open to freelance work and side projects, mostly multi-tenant B2B SaaS
   <img src="assets/titles/forge-light.svg" width="640" alt="The Forge: private projects, real code" />
 </picture>
 
-- **Afterlive**: turns any long video, Twitch streams and beyond, into vertical clips ready to post. It can even watch a stream live and, when a moment is worth remembering, run the whole flow on its own, all the way to the post. The processing flow is the whole point: ultra fast, ultra precise, and nothing like it on the market yet. Being built, online soon.
-- **Brumeval**: an experiment in fully automated asset creation, used in a 3D world. Every asset is generated locally, from a one-line description to a game-ready model: concept art in a fixed art direction, background removal, 3D geometry, mesh cleanup to a triangle budget, a texture painted from 6 views, compressed levels of detail. Characters go further, with a skeleton drawn and skinned automatically, bones named from their shape, and real animation clips, from character design to an animated 3D character. Each asset keeps its provenance: prompt, seed and checks. It feeds a tactical MMO seen from above, with an open world and turn-based combat on a grid. Bun, three.js, Python GPU pipeline.
-- **Tirith**: an editorial engine that never invents a topic. It collects what really happened (calendar, mail, LinkedIn), drafts and scores a post, waits for my call, then reads the engagement back, qualifies the people behind it and traces each opportunity to the post that brought it. Variety comes from a ledger of story, pillar, audience and angle, not from a prompt. Hono, Bun, Postgres with pgvector.
-- **Deisis**: a NixOS appliance for self-hosted AI agents, where an update can never break the box. The target: snapshot bound to the new generation, throwaway VM, health checks, and system and data rolled back together on failure. Today the disk layout and hardened per-agent units are proven by 24 assertions on a booted machine; the agent loop is next.
-- **optimize-site-geo**: a Claude Code skill that maintains a site's SEO and GEO on its own, every week. It measures the site against the last pass (pages, metadata, JSON-LD, links, Search Console positions), sorts regressions from opportunities, fixes them in the site's own tone and design tokens, has a second agent check the work, then merges once the checks are green. A decision log and a 40-line report at the end. Measured on a real site: 38 s and $0.16 for a full pass.
+- **Weathertop**: a data API. You send it prompts in volume and it returns what AI assistants really answer, in a form code can use. A personal project, in the works for 6 months, not released yet.
+- **Afterlive**: turns the recording of a live stream, or any long video, into short clips, edited and ready to post. 2 hours of video processed in about 5 minutes, around fifteen clips and more if needed. In production soon.
+- **Brumeval**: an experiment in fully automated asset creation for a 3D world, from a one-line description to an animated, game-ready character. It feeds a tactical game seen from above, with an open world and turn-based combat. In progress.
+- **Tirith**: an editorial engine that never invents a topic. It starts from what really happened, drafts a post, waits for my call, then traces each opportunity back to the post that brought it. In progress.
+- **Deisis**: a NixOS appliance for self-hosted AI agents, where an update can never break the box: system and data roll back together on failure. In progress.
+- **optimize-site-geo**: a Claude Code skill that maintains a site's SEO and GEO on its own, every week: it measures, sorts regressions from opportunities, fixes them in the site's own tone and reports. Private.
 
 <br />
 

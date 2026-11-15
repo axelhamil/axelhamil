@@ -64,11 +64,11 @@ By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest 
   <img src="assets/titles/palantiri-light.svg" width="640" alt="Palantíri: tooling for coding agents" />
 </picture>
 
+- [opencode-steps](https://github.com/axelhamil/opencode-steps): deterministic agent workflows for OpenCode. The process is a state machine, not prose a model may or may not follow: you write the steps as a tree read top to bottom, a step hands over only when code has checked its exit condition, a loop restarts its steps until they pass, and an agent that returns nothing blocks the run instead of counting as a success. Each workflow becomes a slash command. Just shipped, work in progress.
 - [burnrate](https://github.com/axelhamil/burnrate): tells you whether to push or hold back. It projects where your 5-hour and 7-day quotas will land at reset, gives a daily budget, and says it plainly: ease off, room to spare, or limit hit around 4 pm.
 - [ccwatermelon](https://github.com/axelhamil/ccwatermelon): a 3-line statusline drawn in about 40 ms, that warns you before the quota runs out and counts the tokens left before auto-compaction. Green rind while there's room, red flesh when there isn't.
 - [claude-window](https://github.com/axelhamil/claude-window): pins your 5-hour window to a fixed hour by reading the real reset time from the API, then chains windows all day with 3 or 4 wake-ups and no polling.
 - [cockpit](https://github.com/axelhamil/cockpit): lets a non-developer run a SaaS on Railway by talking to Claude. It installs Metabase, n8n and Uptime Kuma fitted to the app, watches health, errors, costs and backups, logs every change with its undo, and "cancel that" works.
-- [opencode-steps](https://github.com/axelhamil/opencode-steps): deterministic agent workflows for OpenCode. You write the steps as a tree read top to bottom, code decides what runs next, and no model picks the order, so no step gets skipped. Work in progress.
 - [cursor-statusline](https://github.com/axelhamil/cursor-statusline): the same idea for the Cursor Agent CLI, with model, git, context and quota pools.
 
 <br />

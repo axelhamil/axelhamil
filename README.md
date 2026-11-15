@@ -42,7 +42,6 @@ By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest 
 - **Tirith**: an editorial engine that never invents a topic. It starts from what really happened, drafts a post, waits for my call, then traces each opportunity back to the post that brought it. In progress.
 - **Deisis**: a NixOS appliance for self-hosted AI agents, where an update can never break the box: system and data roll back together on failure. In progress.
 - **optimize-site-geo**: a Claude Code skill that maintains a site's SEO and GEO on its own, every week: it measures, sorts regressions from opportunities, fixes them in the site's own tone and reports. Private.
-- [classroom-parents](https://github.com/axelhamil/classroom-parents): a French mobile-first PWA for parents. It links their children's Google Classroom accounts read only, lists the upcoming deadlines found in class announcements and sends a push alert before each one. Proof of concept.
 
 <br />
 

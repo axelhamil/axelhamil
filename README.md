@@ -4,7 +4,7 @@
 </picture>
 <br />
 
-**Axel Hamilcaro, fullstack developer and builder.** I build the APIs and foundation tools other people build their products on, rather than SaaS that consume those APIs. My bet for 2026 and 2027: ship the tool and the data, not the final application. Based in Tours, France, working remote.
+**Axel Hamilcaro, fullstack developer and builder.** I build the APIs and foundation tools that products get built on, mine included. My bet for 2026 and 2027: ship the tool and the data first, the application comes after. Based in Tours, France, working remote.
 
 By day I'm a fullstack developer at [Eskimoz](https://www.eskimoz.fr). The rest of the time I build the tools listed below, open source first. I still take a few freelance projects. More on [axelhamilcaro.com](https://axelhamilcaro.com).
 
